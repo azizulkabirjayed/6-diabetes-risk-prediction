@@ -12,7 +12,7 @@ This project was developed as part of the CSE422(Artificial Intelligence) course
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Project Demo Video
-The project demo video is available to watch here: <a href="(https://www.google.com)">click here</a>.
+The project demo video is available to watch here: <a href="https://www.google.com">click here</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
