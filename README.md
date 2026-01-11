@@ -14,6 +14,7 @@ This project was developed as part of the CSE422(Artificial Intelligence) course
 * ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 * ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 * ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+* 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Project Demo Video
